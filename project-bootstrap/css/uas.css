@@ -1,0 +1,347 @@
+body {
+    font-family: 'Gill Sans' ;
+}
+.bg{
+    background-color: bisque;
+}
+
+.container-fluid a {
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.container-fluid img {
+    border-radius: 50px;
+}
+
+.navbar-menu{
+    color: white;
+    margin-right: 1000px;
+}
+
+.card-body h5 {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: rgb(175, 135, 50);
+}
+
+.fotoabot img{
+    border-radius: 30px;
+}
+.container-service {
+    background-color: rgb(168, 141, 107);
+    margin: 50px;
+    padding: 100px;
+}
+
+.judulproduk, .service, .maps{
+    text-align: center;
+    font-family: 'Gill Sans';
+    font-style: italic;
+    margin-top: 10px;
+    padding: 30px;
+    padding-bottom: 10px;
+    color: rgb(39, 51, 105);
+}
+
+.judulproduk p{
+    margin-bottom: -20px;
+}
+
+.aboutus {
+    font-family: 'Gill Sans';
+    color: rgb(39, 51, 105);
+}
+
+.maps {
+    margin-top: -30px;
+    text-align: center;
+}
+
+.service img {
+    height: 400px;
+    width: auto;
+    margin-top: 1px;
+
+}
+
+.maps-saya{
+    height: 500px;
+    width: 1300px;
+
+}
+
+.banner-wawa{
+    width: 100px;
+}
+
+.container-profil {
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Gill Sans';
+    background-color: rgb(168, 141, 107);
+    
+}
+
+.container-profil img{
+    margin-top: 10px;
+    border-radius: 50px;
+    height: 150px;
+    border-style: double;
+    color: bisque;
+    margin-right: -150px;
+}
+
+.container-profil button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-color: rgb(202, 185, 160);
+    margin-right: -400;
+}
+
+.col-md-6 h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans';
+    margin-top: 10px;
+    font-family: 'Gill Sans';
+    color: rgb(39, 51, 105);
+    font-style: italic;
+    margin-right: -150px;
+}
+
+.col-md-6 video {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    margin-right: 200px;
+}
+
+.fotogeser {
+    width: 50px;
+}
+
+.buttonku {
+    margin-top: 20px;
+    margin-right: -150px;
+}
+
+.contact_section {
+    width: 100%;
+    float: left;
+}
+
+.contact_taital {
+    width: 100%;
+    float: left;
+    color: #1a1c1b;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.contact_text {
+    width: 100%;
+    float: left;
+    color: #252525;
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Gill Sans' ;
+}
+
+.contact_main {
+    width: 100%;
+    display: flex;
+    margin-top: 45px;
+}
+
+.contact_bt {
+    width: 200px;
+}
+
+.contact_bt a {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 10px 30px;
+    background-color: #252525;
+    text-transform: uppercase;
+    margin-right: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.contact_bt a:hover {
+    background-color: #252525;
+    color: #ffffff;
+}
+
+.newletter_bt {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.newletter_bt a {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #252525;
+    padding: 10px 30px;
+    background-color: #fef4ec;
+    text-transform: uppercase;
+    margin-right: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.newletter_bt a:hover {
+    background-color: #252525;
+    color: #ffffff;
+}
+
+.map_main {
+    width: 100%;
+    float: left;
+    margin-top: 90px;
+}
+
+.contact_section_2 {
+    width: 100%;
+    float: left;
+    font-family: 'Gill Sans' ;
+}
+
+.footer_section {
+    width: 100%;
+    float: left;
+    background-color: rgb(168, 141, 107);
+    height: auto;
+    background-size: 100%;
+    padding-bottom: 30px;
+}
+
+.footer_logo {
+    width: 100%;
+    float: left;
+    text-align: center;
+    display: none;
+}
+
+.footer_logo_1 img {
+    width: 350px;
+    justify-content: center;
+    margin-right: -400px;
+    margin-top: 80px;
+    border-radius: 25px;
+}
+
+.address_bt {
+    width: 100%;
+    float: left;
+}
+
+.address_bt ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.address_bt li {
+    font-size: 16px;
+    color: #ffffff;
+    padding: 10px 0px 0px 0px;
+}
+
+.address_bt li a {
+    color: #ffffff;
+}
+
+.address_bt li a:hover {
+    color: #f5ddb6;
+}
+
+.padding_left10 {
+    padding-left: 10px;
+}
+
+.address_text {
+    font-size: 24px;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-top: 80px;
+}
+
+.dummy_text {
+    width: 100%;
+    float: left;
+    font-size: 14px;
+    color: #ffffff;
+    margin: 0px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ipsum_text {
+    width: 65%;
+    float: left;
+    font-size: 14px;
+    color: #ffffff;
+    margin: 0px;
+    padding-top: 10px;
+}
+
+.main {
+    width: 54%;
+    float: right;
+}
+
+.logoogo {
+    margin-top: -1000px;
+}
+
+/* footer section end */
+
+.copyright_section {
+    width: 100%;
+    float: left;
+    background-color: rgb(168, 141, 107);
+    height: auto;
+    font-family: 'Gill Sans';
+}
+
+.copyright_text {
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px 0px;
+    font-family: 'Gill Sans' ;
+}
+
+.copyright_text a {
+    color: #ffffff;
+    font-family: 'Gill Sans' ;
+}
+
+.copyright_text a:hover {
+    color: #f5ddb6;
+}
+
+.margin_top90 {
+    margin-top: 90px;
+}
+
+.container-footer {
+    margin-top: -50px;
+}
+
+.col-sm-4 H3 {
+    margin-bottom: 15px;
+    font-family: 'Gill Sans' ;
+}
+
